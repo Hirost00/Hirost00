@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![typograssy](https://typograssy.deno.dev/api?text=Hirost00&speed=200)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=Hirost00&speed=2000)](https://github.com/kawarimidoll/typograssy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=radical)
 
