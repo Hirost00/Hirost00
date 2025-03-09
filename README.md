@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=radical)
+
+# Languages ​​and Tools you have used
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,androidstudio,apple,arduino,astro,aws,bun,c,cmake,dart,discord,bots,django,docker,dynamodb,emacs,fastapi,firebase,gcp,git,github,githubactions,gmail,go,gradle,instagram,java,jquery,kotlin,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,notion,npm,php,pnpm,postgres,py,r,react,replit,ruby,sqlite,selenium,swift,terraform,twitter,ts,ubuntu,vim,vite,vitest,vscode,yarn,windows )](https://skillicons.dev)
