@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <img alt="typograssy" height="150px" src="https://typograssy.deno.dev/api?text=Welcome" />
-</p>
-
-<p align="center"> 
     <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=react&count_private=true?show_icons=true" />
     <img alt="Top Langs"             height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirost00&theme=react&layout=compact&count_private=true?show_icons=true" />
 </p>
