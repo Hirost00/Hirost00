@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirost00&layout=compact&count_private=true?show_icons=true)
 
-# Languages ​​and Tools you have used
+# Languages ​​and Tools I have used
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,androidstudio,apple,arduino,astro,aws,bun,c,cmake,dart,discord,bots,django,docker,dynamodb,emacs,fastapi,firebase,gcp,git,github,githubactions,gmail,go,gradle,instagram,java,jquery,kotlin,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,notion,npm,php,pnpm,postgres,py,r,react,replit,ruby,sqlite,selenium,swift,terraform,twitter,ts,ubuntu,vim,vite,vitest,vscode,yarn,windows )](https://skillicons.dev)
