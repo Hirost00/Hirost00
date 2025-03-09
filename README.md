@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![typograssy](https://typograssy.deno.dev/api?text=Hirost00&speed=2000)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=Welcome)](https://github.com/kawarimidoll/typograssy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=radical&count_private=true?show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirost00&layout=compact&count_private=true?show_icons=true)
 
 # Languages ​​and Tools you have used
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,androidstudio,apple,arduino,astro,aws,bun,c,cmake,dart,discord,bots,django,docker,dynamodb,emacs,fastapi,firebase,gcp,git,github,githubactions,gmail,go,gradle,instagram,java,jquery,kotlin,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,notion,npm,php,pnpm,postgres,py,r,react,replit,ruby,sqlite,selenium,swift,terraform,twitter,ts,ubuntu,vim,vite,vitest,vscode,yarn,windows )](https://skillicons.dev)
