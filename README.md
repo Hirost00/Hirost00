@@ -28,6 +28,14 @@ Here are some ideas to get you started:
   <img alt="productive-time"      height="150px" src="https://raw.githubusercontent.com/Hirost00/Hirost00/main/profile-summary-card-output/react/4-productive-time.svg" />
 </p>
 
+## Languages and Tools I have used
 
-# Languages ​​and Tools I have used
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,androidstudio,apple,arduino,astro,aws,bun,c,cmake,dart,discord,bots,django,docker,dynamodb,emacs,fastapi,firebase,gcp,git,github,githubactions,gmail,go,gradle,instagram,java,jquery,kotlin,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,notion,npm,php,pnpm,postgres,py,r,react,replit,ruby,sqlite,selenium,swift,terraform,twitter,ts,ubuntu,vim,vite,vitest,vscode,yarn,windows )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,androidstudio,apple,arduino,astro,aws,bun,c,cmake,dart,discord,bots,django,docker,dynamodb,emacs,fastapi,firebase,gcp,git,github,githubactions,gmail,go,gradle,instagram,java,jquery,kotlin,latex,linux,md,materialui,mysql,nextjs,nginx,nodejs,notion,npm,php,pnpm,postgres,py,r,react,replit,ruby,sqlite,selenium,swift,terraform,twitter,ts,ubuntu,vim,vite,vitest,vscode,yarn,windows)](https://skillicons.dev)
+
+## Tech Certifications
+
+<a href="https://www.credly.com/badges/23b79255-825c-43dd-be5f-1f5caed43798/public_url" target="_blank"> <img src="./images/aws-certified-cloud-practitioner.png" alt="clf" height='72px'/> </a>
+<a href="https://www.credly.com/badges/dd70176a-46b9-48e5-b366-e0f747e36b7d/public_url" target="_blank"> <img src="./images/aws-certified-ai-practitioner.png" alt="aif" height='72px'/> </a>
+<a href="https://www.credly.com/badges/5f0da3f9-013e-4375-aad4-6248ceafc904/public_url" target="_blank"> <img src="./images/aws-certified-solutions-architect-associate.png" alt="saa" height='72px'/> </a>
+<a href="https://www.credly.com/badges/37715626-22f7-4566-89a6-060c2c2c4b72/public_url" target="_blank"> <img src="./images/github-foundations.png" alt="gfd" height='72px'/> </a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/70184296/62D8E8230B87F7CB?sharingId=C211D6B8A4E05F6" target="_blank"> <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="gfd" height='72px'/> </a>
