@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Hirost00&style=flat&abbreviated=true)
+
 <p align="center"> 
     <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hirost00&show_icons=true&theme=react&count_private=true?show_icons=true" />
     <img alt="Top Langs"             height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirost00&theme=react&layout=compact&count_private=true?show_icons=true" />
