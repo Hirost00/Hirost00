@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 <a href="https://learn.microsoft.com/api/credentials/share/ja-jp/70184296/62D8E8230B87F7CB?sharingId=C211D6B8A4E05F6" target="_blank">
   <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="gfd" height='72px'/>
 </a>
+<a href="https://learn.microsoft.com/api/credentials/share/ja-jp/70184296/1E30B0714C8F4A38?sharingId=C211D6B8A4E05F6" target="_blank">
+  <img src="https://learn.microsoft.com/ja-jp/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="az-104" height='72px'/>
+</a>
